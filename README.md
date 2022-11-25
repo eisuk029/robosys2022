@@ -1,7 +1,7 @@
 # robosys2022
 # plusコマンド
 
-![test](https://github.com/eisuk029/robosys2022/actions/runs/3561491480)
+![test](https://github.com/eisuk029/robosys2022/actions/workflows/test.yml/badge.svg)
 
 # 概要
 1から指定された数字nまでの数字を足し合わせた数を算出するプログラム
