@@ -1,7 +1,7 @@
 # robosys2022
 # plusコマンド
 
-![test](https://github.com/eisukemiyamoto/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/eisuk029/robosys2022/actions/runs/3561491480)
 
 # 概要
 1から指定された数字nまでの数字を足し合わせた数を算出するプログラム
@@ -13,11 +13,12 @@ ubuntuを開きseq n | ./plusと入力する。nには好きな数字を入力�
 seq 5 | ./plus
 15.0
 
-#必要なソフトウェア
+# 必要なソフトウェア
 * Python(3.7～3.10:テスト済み)
 
-#テスト環境
+# テスト環境
 ubuntu18.04
+
 
 
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
